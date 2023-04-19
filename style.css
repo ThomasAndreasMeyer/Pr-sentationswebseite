@@ -1,28 +1,26 @@
-.parallax-container {
-    height: 100vh;
-    position: relative;
-    overflow: hidden;
-  }
-  
-  .parallax-background {
-    background-image: url('images/brutalism.jpg');
-    background-size: cover;
-    background-position: center;
-    height: 200%;
-    position: absolute;
-    top: -100%;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-  }
-  
-  .parallax-content {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #fff;
-    text-align: center;
-  }
-  
+.parallax-video {
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.parallax-video video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -1;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.parallax-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+}

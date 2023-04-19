@@ -1,5 +1,6 @@
 .parallax-video {
   height: 100vh;
+  max-width: auto;
   position: relative;
   overflow: hidden;
 }

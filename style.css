@@ -39,8 +39,614 @@
   background-repeat: no-repeat; /* Do not repeat the background image */
   background-size: cover; /* Cover the entire banner with the background image */
 }
+/* Add some style to the banner */
+.banner-barszcz {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/barszcz1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+/* Add some style to the banner */
+.banner-bigos {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bigos1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
 
+/* Add some parallax effect to the banner */
+.banner-barszcz {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some parallax effect to the banner */
+.banner-bigos {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-faworki {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/faworki1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
 
+/* Add some parallax effect to the banner */
+.banner-faworki {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-kabanosy {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/kabanosy1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-kabanosy {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-karpatka {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/karpatka1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-karpatka {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-kaszanka {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/kaszanka1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-kaszanka {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-kielbasamysliwska {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/kielbasamysliwska1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-kielbasamysliwska {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-kielbasapolska {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/kielbasapolska1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-kielbasapolska {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-kielbasawedzona {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/kielbasawedzona1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-kielbasawedzona {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-kluskislaskie {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/kluskislaskie1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-kluskislaskie {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-kopytka {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/kopytka1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-kopytka {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-kremowka {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/kremowka1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-kremowka {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-makowiec {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/makowiec1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-makowiec {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-marcinek {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/marcinek1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-marcinek {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-mizeria {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/mizeria1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-mizeria {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-pierogi {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/pierogi1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-pierogi {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-poledwica {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/poledwica1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-poledwica {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-rosol {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/rosol1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-rosol {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-salatkazkrewetek {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/salatkazkrewetek1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-salatkazkrewetek {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-salatkaziemniaczana {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/salatkaziemniaczana1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-salatkaziemniaczana {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-schabowy {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/schabowy1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-schabowy {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-sekacz {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/sekacz1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-sekacz {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-sernik {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/sernik1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-sernik {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-sorowka {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/sorowka1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-sorowka {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-torunskiepierniki {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/torunskiepierniki1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-torunskiepierniki {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-wiejska {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/wiejska1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-wiejska {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-zrazy {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/zrazy1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-zrazy {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-zupaborowikowa {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/zupaborowikowa1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-zupaborowikowa {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
+/* Add some style to the banner */
+.banner-zurek {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  background-position: center;
+  height: 1800px;
+  position: absolute;
+  display: flex;
+  */
+  height: 800px; /* Set the height of the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/zurek1.png'); /* Add a gradient and a background image to the banner */
+  background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+}
+
+/* Add some parallax effect to the banner */
+.banner-zurek {
+  background-attachment: fixed; /* Fix the background image to the viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  background-size: cover; /* Cover the entire banner with the background image */
+}
 :root {
   --color: rgb(46 46 46);
 }

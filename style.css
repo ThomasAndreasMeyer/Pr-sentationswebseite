@@ -1,4 +1,5 @@
-.parallax-video {
+
+/*.parallax-video {
   height: 100vh;
   max-width: auto;
   position: relative;
@@ -16,18 +17,18 @@
   z-index: -1;
   transform: translateX(-50%) translateY(-50%);
 }
-
+*/
 
 /* Add some style to the banner */
 .banner {
-  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg');  background-size: cover;
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/pl5.jpg');  background-size: cover;
   background-position: center;
   height: 1800px;
   position: absolute;
   display: flex;
   */
   height: 800px; /* Set the height of the banner */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg'); /* Add a gradient and a background image to the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/pl6.jpg'); /* Add a gradient and a background image to the banner */
   background-size: cover; /* Cover the entire banner with the background image */
   background-position: center; /* Center the background image */
 }

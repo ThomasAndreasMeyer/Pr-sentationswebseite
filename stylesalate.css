@@ -27,7 +27,7 @@
   display: flex;
   */
   height: 800px; /* Set the height of the banner */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/brutalism.jpg'); /* Add a gradient and a background image to the banner */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/pl5.jpg'); /* Add a gradient and a background image to the banner */
   background-size: cover; /* Cover the entire banner with the background image */
   background-position: center; /* Center the background image */
 }
